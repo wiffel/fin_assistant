@@ -1,0 +1,8 @@
+.aider*
+.venv
+.vscode
+.env
+__pycache__
+*.sqlite
+alphavantage_cache.sqlite
+**/fetched_data/*.csv

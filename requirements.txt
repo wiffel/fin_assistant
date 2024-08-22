@@ -1,0 +1,9 @@
+langchain-anthropic==0.1.23
+langchain==0.2.14
+langgraph==0.2.5
+langsmith==0.1.100
+plotly==5.23.0
+streamlit==1.37.1
+python-dotenv==1.0.1
+requests-cache==1.2.1
+pydantic-settings==2.4.0
